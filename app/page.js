@@ -18,7 +18,7 @@ export default function Home() {
       <div class="bg-orange-200 flex items-center m-10 rounded-md">
         <div class="m-10 w-1/2">
           <img src="/Green-Cole.jpg" alt="Photo of Cole with green background" class="w-96  rounded-md"></img>
-          <div class="items-center flex pt-5">
+          <div class="justify-between flex pt-5">
             <a href="https://github.com/Masagoro1" target="_blank" rel="noopener noreferrer">
               <img src="/github.svg" class="w-12"></img>
             </a>
