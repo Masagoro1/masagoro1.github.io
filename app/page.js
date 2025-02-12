@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <body className="bg-orange-100 text-2xl">
+    <body class="bg-orange-100 text-2xl">
       <div class="flex justify-between items-center p-4 bg-orange-200 underline decoration-green-900">
         <div class="test-left">
           <span class="font-bold text-green-900">Projects</span>
