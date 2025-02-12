@@ -22,6 +22,9 @@ export default function Home() {
             <a href="https://github.com/Masagoro1" target="_blank" rel="noopener noreferrer">
               <img src="/github.svg" class="w-12"></img>
             </a>
+            <a href="https://archidekt.com/search/decks?ownerUsername=SkyCole" target="_blank" rel="noopener noreferrer">
+              <img src="/archidekt.svg" class="w-12"></img>
+            </a>
           </div>
           
         </div>
