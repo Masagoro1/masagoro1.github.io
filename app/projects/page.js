@@ -25,7 +25,7 @@ export default function Projects(){
             <h1 class="font-bold text-5xl m-10 text-center text-green-900">Projects</h1>
             <div class="bg-orange-200 flex items-center m-10 rounded-md">
                 
-                    <img src="/birge.png" alt="Photo of Cole with green background" class="w-60  rounded-md m-10"></img>
+                    <img src="/birge.png" alt="Birge Adventure" class="w-60  rounded-md m-10"></img>
                     
                 
                 
@@ -41,7 +41,23 @@ export default function Projects(){
                 </div>
                 
             </div>
-
+            <div class="bg-orange-200 flex items-center m-10 rounded-md">
+                
+                    <img src="/productivityPet.png" alt="Productivity pet" class="w-60  rounded-md m-10"></img>
+                    
+                
+                
+                    
+                    
+                <div class="text-center md:text-left font">
+                    <h1 class="text-3xl font-bold text-green-900 ml-10 mr-10">Productivity Pets</h1>
+                    <p class="text-green-900 text-2xl ml-10 mr-10">
+                    An add-on for adobe express that I made with my team for Stormhacks 2024 v2.0. This project one the award for most creative add-on.
+                    https://github.com/jakekyee/StormHacks-2024
+                    </p>
+                </div>
+                
+            </div>
         </body>
     )
 }
