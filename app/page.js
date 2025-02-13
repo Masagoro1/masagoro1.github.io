@@ -11,7 +11,9 @@ export default function Home() {
           </Link>
         </div>
         <div class="test-center">
-          <span class="font-bold text-green-900">Home</span>
+          <Link href=".">
+            <span class="font-bold text-green-900">Home</span>
+          </Link>
         </div>
         <div class="test-right">
           <Link href="experience">
