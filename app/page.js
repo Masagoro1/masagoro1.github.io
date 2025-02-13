@@ -14,7 +14,10 @@ export default function Home() {
           <span class="font-bold text-green-900">Home</span>
         </div>
         <div class="test-right">
-          <span class="font-bold text-green-900">Experience</span>
+          <Link href="experience">
+            <span class="font-bold text-green-900">Experience</span>
+          </Link>
+          
         </div>
       </div>
       <h1 class="font-bold text-5xl m-10 text-center text-green-900">Cole McKee</h1>
