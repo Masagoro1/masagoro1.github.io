@@ -1,11 +1,14 @@
 import Image from "next/image";
+import Link from "next/link"
 
 export default function Home() {
   return (
     <body>
       <div class="flex justify-between text-2xl items-center p-4 bg-orange-200 underline decoration-green-900">
         <div class="test-left">
-          <span class="font-bold text-green-900">Projects</span>
+          <Link href="projects">
+            <span class="font-bold text-green-900">Projects</span>
+          </Link>
         </div>
         <div class="test-center">
           <span class="font-bold text-green-900">Home</span>
