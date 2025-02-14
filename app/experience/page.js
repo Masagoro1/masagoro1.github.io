@@ -44,7 +44,28 @@ export default function Experience(){
                 
             </div>
             </a>
-            
+            <a href="https://bigbrothersbigsisters.ca/" target="_blank" rel="noopener noreferrer">
+            <div class="bg-orange-200 flex items-center m-10 rounded-md">
+                
+                    <img src="/BBBS.png" alt="Big Brothers Big Sisters" class="w-60  rounded-md m-10"></img>
+                    
+                
+                
+                    
+                    
+                <div class="text-center md:text-left font">
+                    <h1 class="text-3xl font-bold text-green-900 ml-10 mr-10">Big Brothers Big Sister Mentor</h1>
+                    <p class="text-green-900 text-2xl ml-10 mr-10">
+                    Volunteered as a mentor for elementary school students. I engaged with students one-on-one to help them develop social skills, build confidence and prompt curiosity.
+                        
+                    </p>
+                    <p class="text-green-900 text-2xl ml-10 mr-10 font-bold">
+                    2021-2023
+                    </p>
+                </div>
+                
+            </div>
+            </a>
         </body>
     )
 }
