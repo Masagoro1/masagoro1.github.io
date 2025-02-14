@@ -37,7 +37,9 @@ export default function Experience(){
                     Working at SFU Surrey campus for SFU’s Outreach program. I teach App Development, Game Development, HTML, CSS and JavaScript.
                         
                     </p>
-                    
+                    <p class="text-green-900 text-2xl ml-10 mr-10 font-bold">
+                        Summer 2024-Present
+                    </p>
                 </div>
                 
             </div>
