@@ -28,13 +28,16 @@ export default function Home() {
           <img src="/Green-Cole.jpg" alt="Photo of Cole with green background" class="w-96  rounded-md"></img>
           <div class="justify-between flex pt-5">
             <a href="https://github.com/Masagoro1" target="_blank" rel="noopener noreferrer">
-              <img src="/github.svg" class="w-12"></img>
+              <img src="/github.svg" alt="github profile" class="w-12"></img>
             </a>
             <a href="https://archidekt.com/search/decks?ownerUsername=SkyCole" target="_blank" rel="noopener noreferrer">
-              <img src="/archidekt.svg" class="w-12"></img>
+              <img src="/archidekt.svg" alt="Magic Decks" class="w-12"></img>
             </a>
             <a href="https://www.linkedin.com/in/cole-mckee-618677256/" target="_blank" rel="noopener noreferrer">
-              <img src="Linkedin.png" class="w-12"></img>
+              <img src="Linkedin.png" alt="linkedin" class="w-12"></img>
+            </a>
+            <a href="/ColeMcKeeResume.pdf" target="_blank" rel="noopener noreferrer">
+              <img src="resume.png" alt="resume" class="w-12"></img>
             </a>
           </div>
           
@@ -44,10 +47,13 @@ export default function Home() {
         <div class="text-center md:text-left font">
           <h1 class="text-3xl font-bold text-green-900">About Me</h1>
           <p class="text-green-900 text-2xl">Hi my name is Cole McKee. I am a second year CS student at Simon Fraser University. I work as a Coding Instructor for Science Alive. I love doing game development as a hobby. I love to compete in hackathons. I also find teaching very fufilling. My other interests include trading card games like Magic the Gathering, Dungeons and Dragons and Video Games.</p>
+          <h1 class="text-3xl font-bold text-green-900 mt-10">Skills</h1>
+          <p class="text-green-900 text-2xl">The languages I know are C, C++, C#, HTML, CSS, JavaScript and Python</p>
+          <p class="text-green-900 text-2xl">I am comfortable using React, Tailwind and Unity</p>
         </div>
         
       </div>
-      
+        
     </body>
   );
 }
